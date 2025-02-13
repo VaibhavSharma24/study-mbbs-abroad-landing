@@ -1,5 +1,3 @@
-# study-mbbs-abroad-landing
-
 # Study MBBS Abroad Landing Page
 
 This project is a responsive landing page for a service that helps students study MBBS (Bachelor of Medicine, Bachelor of Surgery) abroad. It's built using Next.js, React, and Tailwind CSS.
@@ -66,10 +64,6 @@ This project is a responsive landing page for a service that helps students stud
 - Google Analytics and Facebook Pixel integration
 - Optimized images and SVG icons
 
-## Deployment
-
-This project is set up to be easily deployed on Vercel. Connect your GitHub repository to Vercel, and it will automatically deploy your application with each push to the main branch.
-
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
@@ -78,7 +72,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 Now, let's provide a brief report on the design and development process:
 
-Design and Development Report for Study MBBS Abroad Landing Page (500 words)
+Design and Development Report for Study MBBS Abroad Landing Page 
 
 The Study MBBS Abroad landing page was designed and developed with the primary goal of creating an engaging, informative, and user-friendly platform for students interested in pursuing medical education abroad. The project leveraged modern web technologies and best practices to ensure a high-quality, performant, and maintainable codebase.
 
